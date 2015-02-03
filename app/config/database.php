@@ -82,7 +82,7 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'root',
-		'password' => 'lu614000',
+		'password' => 'yourpassword',
 		'database' => 'quickwall',
 		'prefix' => '',
 	);
